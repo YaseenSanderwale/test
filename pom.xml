@@ -150,7 +150,7 @@
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-commons</artifactId>
 			<!-- spring provides 1.13.4 -->
-			<version>1.13.7.RELEASE</version>
+			<version>1.13.13.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.acumos.common-dataservice</groupId>
